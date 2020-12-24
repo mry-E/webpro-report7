@@ -127,7 +127,7 @@ EvilCircle.prototype.setControls = function () {
         } else if (e.key === 's') {
             _this.y += _this.velY;
         }
-    };
+    }
 };
 
 // define array to store balls and populate it
